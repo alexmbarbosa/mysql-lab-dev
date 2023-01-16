@@ -32,7 +32,7 @@ ___
   * MYSQL_PORT
   * MYSQL_USER
   * MYSQL_PASSWORD
->Tip: Create a **.env** file including variables above. Thus, it is possible to use your environment without exposing passwords.
+>Tip: Create **.env** file including variables above. Thus, it is possible to use your environment without exposing passwords.
 
 ```yaml
 MYSQL_ROOT_PASSWORD='MyStrongPassword'
