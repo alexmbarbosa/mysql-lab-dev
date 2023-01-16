@@ -4,7 +4,7 @@
 
 ### **Context**
 
-Mostly we need to create a development environment quickly, and we have to simulate the communication between `database x application` but we don't want to waste time creating/installing our MySQL database locally. Instead of, this project will help you to spin up a persistent DEV database *environment* defining only a few arguments.
+Mostly we need to create a development environment quickly, and we have to simulate the communication between `database x application` but we don't want to waste time creating/installing our **[MySQL](https://www.mysql.com)** database locally. Instead of, this project will help you to spin up a persistent DEV database *environment* defining only a few arguments.
 
 ___
 **Scenario**: This is a useful project for tests and labs which need a database.
