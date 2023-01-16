@@ -19,6 +19,8 @@ Meantime, you can use whatever MySQL image if you need. If you prefer it that wa
 
 * https://hub.docker.com/_/mysql
 
+*Ah yes! I kept the [adminer image](https://hub.docker.com/_/adminer/) embedded for easy control and access to the database schema (for those in a hurry).* :D
+
 ___
 
 ### Requirements:
